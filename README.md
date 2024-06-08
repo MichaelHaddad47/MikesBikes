@@ -10,9 +10,9 @@
 
 <a name="desc"></a>
 ## Description
-The above code comprises a fully functional website for Mike's Bikes, built using HTML, CSS, JavaScript, and Bootstrap.
+The above code comprises a functional website for Mike's Bikes, built using Bootstrap (js), with HTML and CSS.
 
-One of the main focuses of this project was to create a visually appealing and user-friendly website. Utilizing Bootstrap for responsive design, combined with custom styles, ensures a professional look and feel. The attention to detail in the design, from layout to color scheme, greatly enhances the user experience, making the website stand out from others.
+One of the main focuses of this project was to create a visually appealing and user-friendly website. Utilizing Bootstrap for responsive design, combined with custom styles, ensures a professional look and feel. The attention to detail in the design, from layout to color scheme, greatly enhances the user experience, making the website stand out.
 
 <a name="inst"></a>
 ## Usage Guide
@@ -36,4 +36,4 @@ One of the main focuses of this project was to create a visually appealing and u
 
 <a name="lics"></a>
 ## License
-This project is licensed under the GPL-3.0 License. [License Details](../master/LICENSE.md)
+This project is licensed under the GPL-3.0 License. [License Details](../main/LICENSE.md)
